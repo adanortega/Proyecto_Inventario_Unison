@@ -1,7 +1,7 @@
 Proyecto de Reingeniería - Gestión de Inventarios
 Sistema moderno desarrollado para la Universidad de Sonora (Tarea 14).
 
-🛠️ Tecnologías
+Tecnologías
 Lenguaje: Java 17
 
 Interfaz: JavaFX (MVC)
